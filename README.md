@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Omega-The-III
+- 👀 I’m interested in C# and Unity
+- 🌱 I’m currently learning C# and JS
+- 💞️ I’m looking to collaborate on games
+- 📫 How to reach me Jeroen.officier@hva.nl
