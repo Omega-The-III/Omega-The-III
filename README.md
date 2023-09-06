@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omega-The-III
+- 👋 Hi, I’m Jeroen Officier
 - 👀 I’m interested in C# and Unity
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on games
