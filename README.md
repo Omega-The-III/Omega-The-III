@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeroen Officier
 - 👀 I’m interested in C# and Unity
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently further developing my knowlage of Godot and the Unity game engine
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me Jeroen.officier@acda.nl
